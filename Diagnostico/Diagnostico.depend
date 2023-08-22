@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1692679972 source:d:\semalgoritmia\diagnostico\main.cpp
+	<iostream>
+	<fstream>
+	"paqueteria.h"
+
+1692599404 source:d:\semalgoritmia\diagnostico\src\paquete.cpp
+	"paquete.h"
+
+1692599410 d:\semalgoritmia\diagnostico\include\paquete.h
+	<iostream>
+
+1692598728 source:d:\semalgoritmia\diagnostico\src\paquteria.cpp
+	"paquteria.h"
+
+1692598178 d:\semalgoritmia\diagnostico\include\paquteria.h
+	"paquete.h"
+
+1692680196 source:d:\semalgoritmia\diagnostico\src\paqueteria.cpp
+	<fstream>
+	<stdlib.h>
+	<sstream>
+	"paqueteria.h"
+
+1692679558 d:\semalgoritmia\diagnostico\include\paqueteria.h
+	"paquete.h"
+
